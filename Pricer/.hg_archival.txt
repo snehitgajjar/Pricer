@@ -1,0 +1,5 @@
+repo: 4b40f0aa09b7b7020e52797478403e9c00ddbb90
+node: 8c3214e9e8d4401a6716d2503a66b688669ff96d
+branch: default
+latesttag: single-threaded version
+latesttagdistance: 1
